@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+/* section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} */
+li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
+ul {
+  padding-left: 0;
+}
+.setCursor {
+  cursor: default;
+}
+.noDecor {
+  text-decoration: none;
+}
